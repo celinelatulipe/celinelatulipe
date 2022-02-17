@@ -4,7 +4,7 @@
 - 👀 I’m interested in how to teach introductory programming in inclusive and welcoming ways
 - 🌱 I’m currently learning how best to teach intro programming in Python and how to integrate Processing in that teaching
 - 💞️ I’m looking to collaborate on a Runestone Intro Python book that integrates interactivity and ethics as critical threads
-- 📫 How to reach me ...send me a message here of find me at celinelatulipe.net 
+- 📫 How to reach me ...send me a message here or find me at [celinelatulipe.net](https://celinelatulipe.net) 
 
 <!---
 celinelatulipe/celinelatulipe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
